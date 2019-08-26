@@ -105,3 +105,4 @@ venv.bak/
 
 /images
 .DS_Store
+**/data
